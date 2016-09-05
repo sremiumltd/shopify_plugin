@@ -1,1 +1,1 @@
-# allpointspayments integration 
+# allpointspayments integration- shopify 
